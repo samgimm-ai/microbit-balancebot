@@ -17,6 +17,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Docs (local reference only)
+docs/
+
 # Environment
 .env
 .venv/
